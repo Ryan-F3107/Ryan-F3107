@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Ryan-F3107
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Ryan-F3107/Ryan-F3107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Hi, My name is Ryan Fernandes. I am a Queen's University alumni where I obtained a Bachelors of Computing Degree with a specialization in Software Design.
+
+--> This page is a work in progress and will be further edited down the road. Feel free to check out some of my projects completed during my time in university.
